@@ -30,3 +30,7 @@ cd your_project
 
 # Install dependencies
 npm install
+ 
+```
+
+# Result
