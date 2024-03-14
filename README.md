@@ -23,7 +23,7 @@ Include step-by-step instructions on how to install and set up your project. You
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/Shahbaz898414/Assignment_placement01.git
 
 # Navigate to the project directory
 cd your_project
