@@ -9,8 +9,7 @@ https://youtu.be/PBlr_FWLFqs?si=NbkNeXzZWFoQqr8m
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 
 ## Introduction
