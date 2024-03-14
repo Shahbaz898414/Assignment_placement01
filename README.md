@@ -39,7 +39,7 @@ npm install
 
 ## Run on command prompt
 ```
-npm init -y
+node app.js
 ```
 
 ## After
