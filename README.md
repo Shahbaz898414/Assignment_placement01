@@ -45,5 +45,8 @@ node app.js
 ## After
 ![alt text](image-2.png)
 
-## PostgreSQL
+## PostgreSQL Store
 ![alt text](image-3.png)
+
+## Age distribution report
+![alt text](image-4.png)
