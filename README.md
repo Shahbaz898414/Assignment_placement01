@@ -17,6 +17,13 @@ https://youtu.be/PBlr_FWLFqs?si=NbkNeXzZWFoQqr8m
 
 Provide a brief introduction to your project. What does it do? Why was it created? Any special considerations or prerequisites users should be aware of?
 
+## Setup Node.js
+
+```
+npm init -y
+
+```
+
 ## Installation
 
 Include step-by-step instructions on how to install and set up your project. You should include any prerequisites or dependencies users need to install beforehand.
