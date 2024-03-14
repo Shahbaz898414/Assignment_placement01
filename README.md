@@ -37,5 +37,10 @@ npm install
 ## Before
 ![alt text](image.png)
 
+## Run on command prompt
+```
+npm init -y
+```
+
 ## After
 ![alt text](image-2.png)
