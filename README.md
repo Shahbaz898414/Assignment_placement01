@@ -21,7 +21,6 @@ Provide a brief introduction to your project. What does it do? Why was it create
 
 ```
 npm init -y
-
 ```
 
 ## Installation
