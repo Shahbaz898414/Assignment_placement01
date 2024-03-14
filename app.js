@@ -31,7 +31,7 @@ csvtojson().fromFile(csvfilepath).then(json => {
     if (err) console.log(err);
   });
 
-  // console.log(json)
+  console.log(json)
 
   // app.get('/',(req,res)=>{
   //   res.json(json);
@@ -55,11 +55,11 @@ async function uploadToPostgreSQL(jsonData) {
 
     for (const data of jsonData) {
       const queryText = `
-        INSERT INTO public.users ("name", age, address, gender)
+        INSERT INTO public.users("name", age, address, gender)
         VALUES ($1, $2, $3, $4)
       `;
       const values = [
-        JSON.stringify(data.name),
+        JSON.stringify(data.name), 
         parseInt(data.age),
         JSON.stringify(data.address),
         data.gender
