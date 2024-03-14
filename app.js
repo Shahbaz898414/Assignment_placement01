@@ -23,7 +23,7 @@ const pool = new Pool({
 });
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
 
 // Parse CSV to JSON and save to output.json
 csvtojson().fromFile(csvfilepath).then(json => {
